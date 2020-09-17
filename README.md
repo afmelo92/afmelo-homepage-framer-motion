@@ -1,4 +1,4 @@
-Personal homepage [AFMELO.COM] using [Create React App](https://github.com/facebook/create-react-app) and [Framer Motion]
+Personal homepage [AFMELO.COM](https://afmelo.com) using [Create React App](https://github.com/facebook/create-react-app) and [Framer Motion]
 
 ## Available Scripts
 
